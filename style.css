@@ -1,0 +1,21 @@
+body{
+    text-align: center;
+    background-color: cyan;
+}
+#apps{
+    width: 100%;
+    background-color: aqua;
+    height: 800px;
+}
+#games{
+    
+    width: 100%;
+    background-color: coral;
+    height: 800px;
+}
+#chatbot{
+    
+    width: 100%;
+    background-color: cornflowerblue;
+    height: 800px;
+}
